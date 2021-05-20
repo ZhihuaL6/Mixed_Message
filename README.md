@@ -5,6 +5,7 @@
   - [General Info](#general-info)
   - [Techonologies Used](#techonologies-used)
   - [Features](#features)
+  - [Result link](#Result-link)
   - [Contact](#contact)
 
 
@@ -18,6 +19,9 @@
 
 ### Features
 ![demo picture](./img/demo.png)
+
+### Result link
+https://zhihual6.github.io/Mixed_Message/ 
 
 ### Contact
 zhihualiu6118@gmail.com
